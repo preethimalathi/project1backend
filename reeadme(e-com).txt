@@ -1,0 +1,6 @@
+insert default record for "paymentmode" table
+---------------------------------------------------
+
+insert into paymentmode(digi16, balance, bankholdername, cvv, month, year) values(6543210987654321',150000,'Admin','456',10,2022)
+
+insert into paymentmode(digi16, balance, bankholdername, cvv, month, year) values('1234567890123456',100000,'User','123',10,2022)
